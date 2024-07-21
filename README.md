@@ -4,7 +4,7 @@ This is a simple demonstration of get, post, put, delete HTTP methods
 
 ## The Data
 
-i have created a sample data of 20 stars names in JSON fomrat which i have hosted in mongodb Atlas under free server.
+I have created a basic sample data of 20 stars names in JSON fomrat which i have hosted in mongodb Atlas under free server.
 
 the data.json file in this codebase is just to show what the format of the live data looks like.
 but the code uses the data from my atlas server.
