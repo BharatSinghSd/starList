@@ -1,0 +1,22 @@
+[
+  { "id": 1, "starName": "Sirius" },
+  { "id": 2, "starName": "Betelgeuse" },
+  { "id": 3, "starName": "Vega" },
+  { "id": 4, "starName": "Proxima Centauri" },
+  { "id": 5, "starName": "Rigel" },
+  { "id": 6, "starName": "Aldebaran" },
+  { "id": 7, "starName": "Antares" },
+  { "id": 8, "starName": "Altair" },
+  { "id": 9, "starName": "Spica" },
+  { "id": 10, "starName": "Pollux" },
+  { "id": 11, "starName": "Arcturus" },
+  { "id": 12, "starName": "Capella" },
+  { "id": 13, "starName": "Deneb" },
+  { "id": 14, "starName": "Fomalhaut" },
+  { "id": 15, "starName": "Regulus" },
+  { "id": 16, "starName": "Castor" },
+  { "id": 17, "starName": "Bellatrix" },
+  { "id": 18, "starName": "Algol" },
+  { "id": 19, "starName": "Canopus" },
+  { "id": 20, "starName": "Achernar" }
+]
