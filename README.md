@@ -22,3 +22,7 @@ http://127.0.0.1:8000/docs/
 change the port number accordingly
 
 use the default swagger ui and test out all the HTTP methods.
+
+# NOTE
+
+If cloning this repo, create your own vEnv. As i have added my environment in .gitignore file (this means it wont be uploaded to the github)
