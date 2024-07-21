@@ -21,4 +21,4 @@ http://127.0.0.1:8000/docs/
 
 change the port number accordingly
 
-use the default swagger ui and test out all the http methods
+use the default swagger ui and test out all the http methods.
